@@ -6,6 +6,6 @@ import HomeView from '@/views/HomeView.vue'
 
 <template>
   <AppHeader />
-  <main id="contenu"><HomeView /></main>
+  <main id="contenu"><RouterView /></main>
   <AppFooter />
 </template>
