@@ -8,5 +8,115 @@
     "available": true,
     "cover": "/covers/petit-prince.jpg",
     "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 2,
+    "title": "L'Étranger",
+    "author": "Albert Camus",
+    "category": "Roman",
+    "year": 1942,
+    "available": true,
+    "cover": "/covers/etranger.jpg",
+    "summary": "Meursault, un homme indifférent au monde, est jugé pour un meurtre commis sur une plage d'Alger."
+  },
+  {
+    "id": 3,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "category": "Roman",
+    "year": 1862,
+    "available": false,
+    "cover": "/covers/miserables.jpg",
+    "summary": "L'ancien forçat Jean Valjean tente de se racheter dans la France du XIXe siècle, poursuivi par l'inspecteur Javert."
+  },
+  {
+    "id": 4,
+    "title": "Une si longue lettre",
+    "author": "Mariama Bâ",
+    "category": "Roman",
+    "year": 1979,
+    "available": true,
+    "cover": "/covers/si-longue-lettre.jpg",
+    "summary": "Ramatoulaye écrit à son amie d'enfance pour raconter son veuvage et la condition des femmes au Sénégal."
+  },
+  {
+    "id": 5,
+    "title": "Harry Potter à l'école des sorciers",
+    "author": "J. K. Rowling",
+    "category": "Jeunesse",
+    "year": 1997,
+    "available": true,
+    "cover": "/covers/harry-potter.jpg",
+    "summary": "Orphelin élevé par sa tante, Harry découvre à onze ans qu'il est un sorcier et entre à Poudlard."
+  },
+  {
+    "id": 6,
+    "title": "Le Petit Nicolas",
+    "author": "René Goscinny",
+    "category": "Jeunesse",
+    "year": 1960,
+    "available": true,
+    "cover": "/covers/petit-nicolas.jpg",
+    "summary": "Les aventures drôles d'un écolier et de ses copains, racontées avec son humour d'enfant."
+  },
+  {
+    "id": 7,
+    "title": "Alice au pays des merveilles",
+    "author": "Lewis Carroll",
+    "category": "Jeunesse",
+    "year": 1865,
+    "available": false,
+    "cover": "/covers/alice.jpg",
+    "summary": "En suivant un lapin blanc, Alice tombe dans un monde étrange où rien ne se passe comme prévu."
+  },
+  {
+    "id": 8,
+    "title": "Le Roi Lion : le grand livre",
+    "author": "Disney",
+    "category": "Jeunesse",
+    "year": 1994,
+    "available": true,
+    "cover": "/covers/roi-lion.jpg",
+    "summary": "Le jeune lion Simba, exilé après la mort de son père, doit revenir prendre sa place de roi."
+  },
+  {
+    "id": 9,
+    "title": "Sapiens : une brève histoire de l'humanité",
+    "author": "Yuval Noah Harari",
+    "category": "Documentaire",
+    "year": 2011,
+    "available": true,
+    "cover": "/covers/sapiens.jpg",
+    "summary": "Un récit de l'histoire de l'espèce humaine, de la préhistoire à nos jours."
+  },
+  {
+    "id": 10,
+    "title": "Une brève histoire du temps",
+    "author": "Stephen Hawking",
+    "category": "Documentaire",
+    "year": 1988,
+    "available": false,
+    "cover": "/covers/histoire-du-temps.jpg",
+    "summary": "Une introduction accessible au Big Bang, aux trous noirs et à la nature du temps."
+  },
+  {
+    "id": 11,
+    "title": "Les Origines de l'Afrique",
+    "author": "Cheikh Anta Diop",
+    "category": "Documentaire",
+    "year": 1954,
+    "available": true,
+    "cover": "/covers/origines-afrique.jpg",
+    "summary": "Un essai qui revisite l'histoire des civilisations africaines et leur place dans l'histoire mondiale."
+  },
+  {
+    "id": 12,
+    "title": "Le Pouvoir des habitudes",
+    "author": "Charles Duhigg",
+    "category": "Documentaire",
+    "year": 2012,
+    "available": true,
+    "cover": "/covers/pouvoir-habitudes.jpg",
+    "summary": "Une enquête sur la façon dont les habitudes se forment et comment les changer."
   }
 ]
