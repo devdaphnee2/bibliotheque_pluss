@@ -31,4 +31,8 @@
   margin: 0;
   padding: 0;
 }
+.app-header__nav a.router-link-active {
+  font-weight: 700;
+  border-bottom: 2px solid currentColor;
+}
 </style>
